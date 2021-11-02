@@ -1,4 +1,4 @@
-layout: page  
+layout: template  
 title: "Constitution"  
 permalink: /constitution/  
 
