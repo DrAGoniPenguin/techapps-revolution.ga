@@ -1,6 +1,8 @@
+---
 layout: template  
 title: "Constitution"  
 permalink: /constitution/  
+---
 
 hello lol  
 WIP! Work In Progress!  
