@@ -1,2 +1,4 @@
-### REVOLUTION LMAO
-I HAVE NOTHING BETTER TO PUT LOL
+### REVOLUTION LOL
+
+I can't think of anything to put lol
+I'm gonna add the Constitution on here soon.
